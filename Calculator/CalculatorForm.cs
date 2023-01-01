@@ -56,7 +56,7 @@ namespace Calculator
             HttpResponseMessage result=null;
             try
             {
-                response = m_httpClient.PostAsync("http://localhost:9094/calculate/Calc", data);
+                response = m_httpClient.PostAsync("http://localhost:5000/calculate/Calc", data);
 
                 result = response.GetAwaiter().GetResult();
             }
