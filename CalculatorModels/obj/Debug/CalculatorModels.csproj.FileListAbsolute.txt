@@ -1,0 +1,13 @@
+C:\Users\liad.g\Desktop\calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.deps.json
+C:\Users\liad.g\Desktop\calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.dll
+C:\Users\liad.g\Desktop\calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.pdb
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.AssemblyInfoInputs.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.AssemblyInfo.cs
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.csproj.CoreCompileInputs.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.dll
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.pdb
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.deps.json
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.dll
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorApps\AnyCPU\Debug\CalculatorModels.pdb
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\CalculatorModels.csproj.AssemblyReference.cache

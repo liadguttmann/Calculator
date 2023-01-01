@@ -1,0 +1,9 @@
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.exe
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\bin\Debug\Kalkulacka.pdb
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.KalkulackaForm.resources
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.Properties.Resources.resources
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.exe
+C:\Users\sdraco\Desktop\Kalkulacka\Kalkulacka\obj\Debug\Kalkulacka.pdb

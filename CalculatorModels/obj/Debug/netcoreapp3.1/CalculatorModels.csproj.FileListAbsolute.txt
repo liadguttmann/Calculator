@@ -1,0 +1,9 @@
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\bin\Debug\netcoreapp3.1\CalculatorModels.deps.json
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\bin\Debug\netcoreapp3.1\CalculatorModels.dll
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\bin\Debug\netcoreapp3.1\CalculatorModels.pdb
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.AssemblyInfoInputs.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.AssemblyInfo.cs
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.csproj.CoreCompileInputs.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.dll
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorModels\obj\Debug\netcoreapp3.1\CalculatorModels.pdb

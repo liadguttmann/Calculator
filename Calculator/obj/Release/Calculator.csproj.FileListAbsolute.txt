@@ -1,0 +1,9 @@
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorApps\AnyCPU\Release\Calculator.exe.config
+C:\Users\liad.g\Desktop\calculator\Calculator\CalculatorApps\AnyCPU\Release\Calculator.exe
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.CalculatorForm.resources
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+C:\Users\liad.g\Desktop\calculator\Calculator\Calculator\obj\Release\Calculator.exe
